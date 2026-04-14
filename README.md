@@ -1,4 +1,4 @@
-# 🔥 ReconPulse — Web Reconnaissance & Vulnerability Insights Dashboard
+#  ReconPulse — Web Reconnaissance & Vulnerability Insights Dashboard
 
 <p align="center">
 <img width="612" height="408" alt="reconpulse" src="https://github.com/user-attachments/assets/dd54ed19-b46e-42d4-b416-2eaaf25894b1" />
@@ -10,22 +10,22 @@ Built with simplicity and efficiency in mind, ReconPulse provides automated targ
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🌐 Target Fetching & Response Analysis
-- 📡 HTTP Header Inspection
-- 📜 JavaScript File Extraction
-- 🔍 Endpoint Discovery from JS
-- 🧩 Parameter Identification
-- 💀 Basic Vulnerability Detection:
+-  Target Fetching & Response Analysis
+-  HTTP Header Inspection
+-  JavaScript File Extraction
+-  Endpoint Discovery from JS
+-  Parameter Identification
+-  Basic Vulnerability Detection:
   - Potential SSRF / Open Redirect
   - Potential IDOR
-- 📊 Risk Scoring System
-- 🖥️ Interactive Dashboard (Streamlit-based)
+-  Risk Scoring System
+-  Interactive Dashboard (Streamlit-based)
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ```
 pip install requests beautifulsoup4 streamlit
@@ -41,7 +41,7 @@ http://localhost:8501
 
 ---
 
-📁 Project Structure
+ Project Structure
 
 reconpulse/
 │── recon_pulse.py
@@ -50,7 +50,7 @@ reconpulse/
 
 ---
 
-⚠️ Disclaimer
+ Disclaimer
 
 This tool is created for educational purposes and authorized security testing only.
 
